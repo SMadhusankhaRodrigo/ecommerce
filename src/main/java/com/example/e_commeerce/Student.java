@@ -7,5 +7,9 @@ public class Student {
     private String address1;
     private String address2;
     private String name1;
+    private String name11;
+
+    private String name10;
+
 
 }
