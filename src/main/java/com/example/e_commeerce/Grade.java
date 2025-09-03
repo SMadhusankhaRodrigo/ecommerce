@@ -1,6 +1,6 @@
 package com.example.e_commeerce;
 
-public class Student {
+public class Grade {
     private int id;
     private String name;
     private String address;
@@ -8,7 +8,4 @@ public class Student {
     private String address2;
     private String name1;
     private String name11;
-
-
-
 }
