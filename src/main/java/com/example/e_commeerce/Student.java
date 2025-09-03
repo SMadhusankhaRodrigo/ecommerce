@@ -6,5 +6,6 @@ public class Student {
     private String address;
     private String address1;
     private String address2;
+    private String name1;
 
 }
